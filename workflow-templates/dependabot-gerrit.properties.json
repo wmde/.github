@@ -1,0 +1,12 @@
+{
+    "name": "WMDE Dependabot workflow",
+    "description": "Adds a dependabot workflow that pushes dependabot pullrequests to gerrit.",
+    "iconName": "dependabot-gerrit",
+    "categories": [
+        "Dependabot",
+	"Gerrit"
+    ],
+    "filePatterns": [
+        ".github/dependabot.yml",
+    ]
+}
