@@ -5,8 +5,5 @@
     "categories": [
         "Dependabot",
 	    "Gerrit"
-    ],
-    "filePatterns": [
-        "package.json$"
     ]
 }
