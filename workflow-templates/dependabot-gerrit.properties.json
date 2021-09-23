@@ -4,9 +4,9 @@
     "iconName": "dependabot-gerrit",
     "categories": [
         "Dependabot",
-	"Gerrit"
+	    "Gerrit"
     ],
     "filePatterns": [
-        ".github/dependabot.yml"
+        "package.json$"
     ]
 }
