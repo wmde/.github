@@ -7,6 +7,6 @@
 	"Gerrit"
     ],
     "filePatterns": [
-        ".github/dependabot.yml",
+        ".github/dependabot.yml"
     ]
 }
