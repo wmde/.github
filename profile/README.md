@@ -21,8 +21,8 @@ Software that powers Wikimedia Deutschland's fundraising efforts including APIs,
 
 ### Technical Wishes
 
-A dedicated team that builds new and improved features for the MediaWiki community (our code is hosted on [GitLab](https://gitlab.com/wmde) and Gerrit). See [our page on Meta-Wiki](https://meta.wikimedia.org/wiki/WMDE_Technical_Wishes).
+A dedicated team that builds new and improved features for the MediaWiki community. Our code is hosted on [GitLab](https://gitlab.com/wmde) and Gerrit. See [our page on Meta-Wiki](https://meta.wikimedia.org/wiki/WMDE_Technical_Wishes).
 
 ## Our movement
 
-The Wikimedia movement is the global community of contributors to the Wikimedia projects, including Wikipedia, Wikidata and so many others. There are global chapters all over the world that maintain the projects for their communities and create software and tools for all to benefit from. For those looking to learn more about software at the Wikimedia movement, please see the [Wikimedia Foundation](https://github.com/wikimedia) and [Wikidata](https://github.com/Wikidata) GitHub organizations.
+The Wikimedia Movement is a global community of contributors to the Wikimedia projects, including Wikipedia, Wikidata and many others. There are chapters across the world that maintain the projects for their communities and create software and tools for all to benefit from. For those looking to learn more about software in the Wikimedia movement, please see the [Wikimedia Foundation](https://github.com/wikimedia) and [Wikidata](https://github.com/Wikidata) GitHub organizations.
