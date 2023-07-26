@@ -1,24 +1,23 @@
 [![logo](https://raw.githubusercontent.com/wmde/.github/main/images/WMDEGitHubBanner.png)](https://github.com/wmde)
 
-Wikimedia Deutschland is the German chapter of the global [Wikimedia movement](https://www.wikimedia.org/). Our technical focus is on [Wikidata](https://www.wikidata.org/), the [Wikibase ecosystem](https://wikiba.se/) and software that serves the German speaking and wider Wikimedia community.
+Wikimedia Deutschland is the German chapter of the global [Wikimedia movement](https://www.wikimedia.org/). Our technical focus is on [Wikidata](https://www.wikidata.org/), the [Wikibase ecosystem](https://wikiba.se/) and software that serves the German-speaking and the wider Wikimedia community.
 
 ## Our projects
 
 ### Wikidata
 
-A collaboratively edited multilingual knowledge graph that powers Wikipedia, Wikivoyage, Wiktionary, Wikisource, and many other sites and services beyond just Wikimedia projects! See [wikidata.org](https://www.wikidata.org).
+A collaboratively edited multilingual knowledge graph that powers Wikipedia, Wikivoyage, Wiktionary, Wikisource and many other sites and services beyond Wikimedia projects. See [wikidata.org](https://www.wikidata.org).
 
 ### Wikibase Suite
 
-Dockerized deployment of Wikibase, the technology behind Wikidata. It alows you to host your very own linked open data knowledge base. See [installation guide on MediaWiki](https://www.mediawiki.org/wiki/Wikibase/Suite).
+A dockerized deployment of Wikibase, the technology behind Wikidata. It allows you to host your own linked open data knowledge base. See [our installation guide](https://www.mediawiki.org/wiki/Wikibase/Suite).
 
 ### Wikibase Cloud
-
-A fully managed Wikibase instance that provides the support needed for those who want to have their own knowledge graph quickly and easily. See [wikibase.cloud](https://www.wikibase.cloud).
+A fully managed Wikibase instance made available quickly and easily for those who want their own knowledge graph. See [wikibase.cloud](https://www.wikibase.cloud).
 
 ### Fundraising Tech
 
-Software that powers Wikimedia Deutschland's fundraising efforts including apis, user interfaces, banners and more. See [spenden.wikimedia.de](https://spenden.wikimedia.de/).
+Software that powers Wikimedia Deutschland's fundraising efforts including APIs, user interfaces, banners and more. See [spenden.wikimedia.de](https://spenden.wikimedia.de/).
 
 ### Technical Wishes
 
