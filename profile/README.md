@@ -10,7 +10,7 @@ A collaboratively edited multilingual knowledge graph that powers Wikipedia, Wik
 
 ### Wikibase Suite
 
-A dockerized deployment of Wikibase, the technology behind Wikidata. It allows you to host your own linked open data knowledge base. See [our installation guide](https://www.mediawiki.org/wiki/Wikibase/Suite).
+A dockerized deployment of Wikibase, the technology behind Wikidata. It allows you to host your own linked open data knowledge base. See [our installation guide](https://github.com/wmde/wikibase-release-pipeline/tree/main/deploy).
 
 ### Wikibase Cloud
 A fully managed Wikibase instance made available quickly and easily for those who want their own knowledge graph. See [wikibase.cloud](https://www.wikibase.cloud).
